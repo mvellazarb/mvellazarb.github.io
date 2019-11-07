@@ -88,14 +88,22 @@ textarea {
    ========================================================================== */
    
 html {
-    color: #eee;
-    background-color: #222;
+    background-color: #fff;
 }
 
 body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+header {
+  color: #fff;
+  background-color: #222;
+  width: 100%;
+}
+
+#header-content {
   width: 75%;
   margin: 0 auto;
-  font-family: Arial, sans-serif;
 }
 
 header h1 {
@@ -106,6 +114,11 @@ header h1 {
 
 header a {
   color: inherit;
+}
+
+main {
+  width: 75%;
+  margin: 0 auto;
 }
 
 main a {
