@@ -92,6 +92,10 @@ body {
   margin: 0 auto;
 }
 
+#social-media-links {
+  font-size: 2em;
+}
+
 
 /* ==========================================================================
    Helper classes
