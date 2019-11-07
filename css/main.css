@@ -87,13 +87,28 @@ textarea {
    Author's custom styles
    ========================================================================== */
    
+html {
+    color: #fff;
+    background-color: #222;
+}
+
 body {
   width: 75%;
   margin: 0 auto;
+  font-family: Arial, sans-serif;
 }
 
 header h1 {
   display: inline-block;
+}
+
+header a {
+  color: inherit;
+}
+
+main a {
+  color: inherit;
+  text-decoration-style: dotted;    
 }
 
 #social-media-links {
