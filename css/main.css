@@ -95,6 +95,10 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
+h2 {
+  font-weight: 300;
+}
+
 header {
   color: #fff;
   background-color: #222;
@@ -122,12 +126,16 @@ main {
 
 main article {
   float: left;
-  width: 65%;
+  width: 60%;
+  text-align: justify;
 }
 
 table {
-  width: 100%;
   text-align: left;
+}
+
+td {
+  padding-right: 30px;
 }
 
 main a {
@@ -142,10 +150,11 @@ main aside {
   text-align: right;
 }
 
-main aside img {
+main img {
   box-sizing: border-box;
   border: 1px solid #ddd;
   padding: 3px;
+  float: right;
 }
 
 #social-media-links {
