@@ -124,6 +124,10 @@ main {
   margin: 0 auto;
 }
 
+article {
+  margin-bottom: 0.83em;
+}
+
 main article {
   float: left;
   width: 60%;
@@ -140,7 +144,7 @@ td {
 
 main a {
   color: inherit;
-  text-decoration-style: dotted;    
+  text-decoration-style: dotted;
 }
 
 main aside {
@@ -165,7 +169,6 @@ main img {
   float: right;
   
 }
-
 
 /* ==========================================================================
    Helper classes
