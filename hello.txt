@@ -1,1 +1,10 @@
-hello world
+# JB’s repository and signing key
+sudo apt-get install gnupg
+echo "deb http://guinevere-ict.research.um.edu.mt/packages/ bionic main" | sudo tee /etc/apt/sources.list.d/jb.list
+wget -q -O - http://guinevere-ict.research.um.edu.mt/keys/jabriffa-C44F0EA9.pub | sudo apt-key add -
+# Canonical Partner (for Adobe Reader and Skype)
+sudo sed -i ’/bionic partner/ s/# //’ /etc/apt/sources.list
+# update the package lists
+sudo apt-get update
+# add main packages
+sudo apt-get install um-ict-lab-networks
