@@ -9,7 +9,7 @@ Drummer and singer based in Malta.
 You'll find my latest activities and all of my work on this website.
 
 ## What I'm up to
-*February 2021 - March 2021*
+*February 2021 to March 2021*
 : Developing my musicianship via self-directed learning (see the blog for more info.)
 
 *November 2020 to January 2021*
