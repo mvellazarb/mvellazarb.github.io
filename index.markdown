@@ -9,8 +9,8 @@ Drummer and singer based in Malta.
 You'll find my latest activities and all of my work on this website.
 
 ## What I'm up to
-*February 2021*
-: [1 month commitment to develop my musicianship]({% post_url 2021-01-31-february-2021-learning-commitment %}) via self-directed learning.
+*February 2021 - March 2021*
+: Developing my musicianship via self-directed learning (see the blog for more info.)
 
 *November 2020 to January 2021*
 : Time off, and reorienting myself.
